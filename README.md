@@ -36,7 +36,6 @@
 
 ## 📈 GitHub Stats
 
-![Arunima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunima2007&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunima2007&layout=compact)
 
